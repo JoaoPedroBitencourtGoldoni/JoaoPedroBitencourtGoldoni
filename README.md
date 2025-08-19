@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack em Formação`**
 
-Meu nome é João Pedro Bitencourt Goldoni, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Software na FIAP, com previsão de formatura para dezembro de 2026. Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções que facilitem o dia a dia das pessoas. Busco constantemente aprender novas ferramentas e aprimorar minhas habilidades para me tornar um profissional completo e preparado para os desafios do mercado.
+Meu nome é João Pedro Bitencourt Goldoni, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas na FIAP, com previsão de formatura para dezembro de 2026. Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções que facilitem o dia a dia das pessoas. Busco constantemente aprender novas ferramentas e aprimorar minhas habilidades para me tornar um profissional completo e preparado para os desafios do mercado.
 
 <p align="left">
     <a href="https://github.com/JoaoPedroBitencourtGoldoni">
