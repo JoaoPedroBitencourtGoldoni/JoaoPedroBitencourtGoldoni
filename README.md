@@ -83,5 +83,3 @@ Meu nome é João Pedro Bitencourt Goldoni, tenho 18 anos e atualmente curso An�
 />
 <br/>
 <br/>
-
-| <a href="https://github.com/JoaoPedroBitencourtGoldoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroBitencourtGoldoni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="João Pedro github stats" /></a> | <a href="https://github.com/JoaoPedroBitencourtGoldoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroBitencourtGoldoni&layout=compact&theme=buefy&hide_border=true" /></a> |
